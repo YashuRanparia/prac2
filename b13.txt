@@ -1,5 +1,0 @@
-Hi.
-
-This is commit 1 by b13.
-This is commit 2 by b13.
-This is commit 3 by b13.
